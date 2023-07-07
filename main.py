@@ -1,5 +1,8 @@
 import mysql.connector
 import sys
+import os
+os.system('sudo /etc/init.d/mysql start')
+
 
 # total arguments
 print("--------------------------Start--------------------------------------------------\n")
