@@ -1,4 +1,4 @@
-# CLI Package for Automating SQL Connction Using Python
+# CLI Package for Automating SQL Connection Using Python
 
 ## Connecting with MySql Server using Python 3.11
 This package is meant to be used to connect connect with a MySQL server, start-up a default Schema for the user and to create a Table to work start-off with the server as a boiler-plate package.
