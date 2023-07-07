@@ -77,5 +77,11 @@ Run the python script as:
 
 The script creates a DB in absense of one, arguments are added to the schema, and then the user can enter the table enteries after being prompted to. This automates the hassle of doing this all from scratch.
 
+##Dependencies
+Use the following command in order to resolve any dependencies:
+
+```pip install -r requirements.txt```
+
+This will install all the dependencies on your virtual environment and would resolve any errors due to missing packages while setup.
 
 
